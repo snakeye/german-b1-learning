@@ -15,4 +15,4 @@ Keine abstrakte Theorie.
 
 ## Einträge
 
-- 2026-03-30 — System angelegt, erste echte Fehler folgen nach Praxis
+- 2026-03-30 — Grammatik — Konjunktiv II bei starken Verben ist instabil — drilling — siehe `errors/grammatik.md`
